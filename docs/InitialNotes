@@ -1,0 +1,4 @@
+Followed this guide to set everything up:
+https://gun.io/blog/setting-up-a-django-project/
+
+Using mysqlclient as DB connection and mysql running on Zack's local machine.
